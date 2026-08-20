@@ -1,7 +1,7 @@
 # Final2x
 
 <div align="center">
-<img src="./resources/icon.png" width="30%"/>
+<a href="https://trendshift.io/repositories/19699" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19699" alt="EutropicAI%2FFinal2x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
 ![MacOS](https://img.shields.io/badge/Support-MacOS-blue?logo=Apple&style=flat-square)
@@ -14,7 +14,6 @@
 ![Download](https://img.shields.io/github/downloads/EutropicAI/Final2x/total)
 ![GitHub](https://img.shields.io/github/license/EutropicAI/Final2x)
 
-<a href="https://trendshift.io/repositories/19699" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19699" alt="EutropicAI%2FFinal2x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 A cross-platform image super-resolution tool.
 
 - News🎉: Final2x v4.0.0 is now available! It uses the [cccv](https://github.com/EutropicAI/cccv) backend, supporting custom models and more. See [custom model demo](https://github.com/EutropicAI/cccv_demo_remote_model).
@@ -74,11 +73,3 @@ the [LICENSE file](./LICENSE) for details.
 ### Acknowledgements
 
 Feel free to reach out to the project maintainers with any questions or concerns~
-
-<a href="https://star-history.com/#EutropicAI/Final2x&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=EutropicAI/Final2x&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=EutropicAI/Final2x&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=EutropicAI/Final2x&type=Date" />
-  </picture>
-</a>
