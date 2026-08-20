@@ -8,11 +8,11 @@
 ![Windows](https://img.shields.io/badge/Support-Windows-blue?logo=Windows&style=flat-square)
 ![Linux](https://img.shields.io/badge/Support-Linux-blue?logo=Linux&style=flat-square)
 [![CI-test](https://github.com/EutropicAI/Final2x/actions/workflows/CI-test.yml/badge.svg)](https://github.com/EutropicAI/Final2x/actions/workflows/CI-test.yml)
+[![CI-test-core](https://github.com/EutropicAI/Final2x/actions/workflows/CI-test-core.yml/badge.svg)](https://github.com/EutropicAI/Final2x/actions/workflows/CI-test-core.yml)
 [![CI-build](https://github.com/EutropicAI/Final2x/actions/workflows/CI-build.yml/badge.svg)](https://github.com/EutropicAI/Final2x/actions/workflows/CI-build.yml)
 [![Release](https://github.com/EutropicAI/Final2x/actions/workflows/Release.yml/badge.svg)](https://github.com/EutropicAI/Final2x/actions/workflows/Release.yml)
 ![Download](https://img.shields.io/github/downloads/EutropicAI/Final2x/total)
 ![GitHub](https://img.shields.io/github/license/EutropicAI/Final2x)
-
 
 <a href="https://trendshift.io/repositories/19699" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19699" alt="EutropicAI%2FFinal2x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 A cross-platform image super-resolution tool.
@@ -59,9 +59,10 @@ apt install -y libomp5 xdg-utils
 
 ### Reference
 
+The Python CLI and desktop backend now live in [`core`](./core) and are released with the desktop app under the same version number.
+
 The following references were referenced in the development of this project:
 
-- [Final2x-core](https://github.com/EutropicAI/Final2x-core)
 - [naive-ui](https://github.com/tusen-ai/naive-ui)
 - [electron-vite](https://github.com/alex8088/electron-vite)
 
